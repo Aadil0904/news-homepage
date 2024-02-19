@@ -1,4 +1,4 @@
-# Frontend Mentor - News homepage (https://news-homepage-aadilshaikh.netlify.app/)
+# [Frontend Mentor - News homepage](https://news-homepage-aadilshaikh.netlify.app/)
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
 
